@@ -202,3 +202,6 @@ This repository serves as the official landing page for SQL Server ODBC Driver. 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of SQL Server ODBC Driver today!**
+
+---
+**Last updated:** 2026-11-08 14:52:42 UTC
