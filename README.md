@@ -204,4 +204,4 @@ This repository serves as the official landing page for SQL Server ODBC Driver. 
 **Get the most recent version of SQL Server ODBC Driver today!**
 
 ---
-**Last updated:** 2026-11-09 05:22:34 UTC
+**Last updated:** 2026-11-09 15:38:20 UTC
